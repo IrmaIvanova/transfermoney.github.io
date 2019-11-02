@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/transfermoney.github.io/precache-manifest.9cf30ca01a6808e25bd0e8cd9674b129.js"
+  "/transfermoney.github.io/precache-manifest.2188ac572856d36cfa7d9481de2ce7e0.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/transfermoney.github.io/static/css/main.b100e6da.chunk.css",
-    "main.js": "/transfermoney.github.io/static/js/main.d518d5b9.chunk.js",
-    "main.js.map": "/transfermoney.github.io/static/js/main.d518d5b9.chunk.js.map",
+    "main.css": "/transfermoney.github.io/static/css/main.6189cfdc.chunk.css",
+    "main.js": "/transfermoney.github.io/static/js/main.c8c8db02.chunk.js",
+    "main.js.map": "/transfermoney.github.io/static/js/main.c8c8db02.chunk.js.map",
     "runtime-main.js": "/transfermoney.github.io/static/js/runtime-main.4394731f.js",
     "runtime-main.js.map": "/transfermoney.github.io/static/js/runtime-main.4394731f.js.map",
-    "static/js/2.14c02a4e.chunk.js": "/transfermoney.github.io/static/js/2.14c02a4e.chunk.js",
-    "static/js/2.14c02a4e.chunk.js.map": "/transfermoney.github.io/static/js/2.14c02a4e.chunk.js.map",
+    "static/js/2.1c9d2c99.chunk.js": "/transfermoney.github.io/static/js/2.1c9d2c99.chunk.js",
+    "static/js/2.1c9d2c99.chunk.js.map": "/transfermoney.github.io/static/js/2.1c9d2c99.chunk.js.map",
     "index.html": "/transfermoney.github.io/index.html",
-    "precache-manifest.9cf30ca01a6808e25bd0e8cd9674b129.js": "/transfermoney.github.io/precache-manifest.9cf30ca01a6808e25bd0e8cd9674b129.js",
+    "precache-manifest.2188ac572856d36cfa7d9481de2ce7e0.js": "/transfermoney.github.io/precache-manifest.2188ac572856d36cfa7d9481de2ce7e0.js",
     "service-worker.js": "/transfermoney.github.io/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/transfermoney.github.io/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/transfermoney.github.io/static/media/logo.25bf045c.svg"
+    "static/css/main.6189cfdc.chunk.css.map": "/transfermoney.github.io/static/css/main.6189cfdc.chunk.css.map",
+    "static/media/flag.svg": "/transfermoney.github.io/static/media/flag.a5cbf70b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4394731f.js",
-    "static/js/2.14c02a4e.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.d518d5b9.chunk.js"
+    "static/js/2.1c9d2c99.chunk.js",
+    "static/css/main.6189cfdc.chunk.css",
+    "static/js/main.c8c8db02.chunk.js"
   ]
 }
